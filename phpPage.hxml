@@ -1,0 +1,9 @@
+
+-cp src
+-main phpFileStructure.page01.Main
+-php bin/php/pagel01
+
+
+-D php7
+-resource testResource.txt@:testResource
+#--php-lib ../../phpLib
